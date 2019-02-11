@@ -1,0 +1,739 @@
+Nº	Nome	Imagem	Início do pontificado	Fim do pontificado	Nacionalidade	Duração	Nome em latim	Notas
+
+
+1	São Pedro		30	c 67	Romano
+(Galileu)
+
+36 ou 37 anos (c)	Petrus	[nota 1]
+2	São Lino		c 67	c 76	Romano
+(Italiano)
+
+8 ou 9 anos (c)	Linus	Canonizado.
+3	Santo Anacleto		c 76	c 88	Romano
+(Grego)
+
+11 ou 12 anos (c)	Anacletus	Canonizado.
+4	São Clemente I		88	97	Romano
+(da capital Roma)
+
+8 ou 9 anos (c)	Clemens	Canonizado.
+5	Santo Evaristo		97	105	Romano
+(Palestino)
+
+7 ou 8 anos (c)	Evaristus	Canonizado.
+6	Santo Alexandre I		105	116	Romano
+(da capital Roma)
+
+10 ou 11 anos (c)	Alexander	Canonizado.
+7	São Sisto I		116	125	Romano
+(da capital Roma)
+
+8 ou 9 anos (c)	Xystus	Canonizado.
+8	São Telésforo		125	138	Romano
+(Italiano)
+
+12 ou 13 anos (c)	Telesphorus	Canonizado.
+9	São Higino		138	142	Romano
+(Grego)
+
+23 ou 24 anos (c)	Hyginus	Canonizado.
+10	São Pio I		142	155	Romano
+(Italiano)
+
+12 ou 13 anos (c)	Pius	Canonizado.
+11	Santo Aniceto		155	166	Romano
+(Sírio)
+
+10 ou 11 anos (c)	Anicetus	Canonizado.
+12	São Sotero		166	175	Romano
+(Italiano)
+
+8 ou 9 anos (c)	Soterius	Canonizado.
+13	Santo Eleutério		175	189	Romano
+(Grego)
+
+13 ou 14 anos (c)	Eleutherius	Canonizado.
+14	São Vítor I		189	199	Romano
+(Norte Africano)
+
+9 ou 10 anos (c)	Victor	Canonizado.
+15	São Zeferino		199	20 de dezembro de 217	Romano
+(da capital Roma)
+
+17 ou 18 anos (c)	Zephyrinus	Canonizado.
+16	São Calisto I		217	223	Romano
+(da capital Roma)
+
+5 ou 6 anos (c)	Callistus	Canonizado.
+17	Santo Urbano I		223	230	Romano
+(da capital Roma)
+
+6 ou 7 anos (c)	Urbanus	Canonizado.
+18	São Ponciano		21 de julho de 230	28 de setembro de 235	Romano
+(da capital Roma)
+
+1 895 dias	Pontianus	Canonizado.
+19	Santo Antero		21 de novembro de 235	3 de janeiro de 236	Romano
+(Italiano)
+
+43 dias	Anterus	Canonizado.
+20	São Fabiano		10 de janeiro de 236	20 de janeiro de 250	Romano
+(da capital Roma)
+
+5 124 dias	Fabianus	Canonizado.
+21	São Cornélio		6 de março de 251	junho de 253	Romano
+(da capital Roma)
+
+846 dias	Cornelius	Canonizado.
+22	São Lúcio I		25 de junho de 253	5 de março de 254	Romano
+(da capital Roma)
+
+253 dias	Lucius	Canonizado.
+23	Santo Estêvão I		12 de maio de 254	2 de agosto de 257	Romano
+(da capital Roma)
+
+1 178 dias	Stephanus	Canonizado.
+24	São Sisto II		31 de agosto de 257	6 de agosto de 258	Romano
+(Grego)
+
+340 dias	Xystus Secundus	Canonizado.
+25	São Dionísio		22 de julho de 259	26 de dezembro de 268	Romano
+(Possivelmente de etnia Grega)
+
+3 445 dias	Dionysius	Canonizado.
+26	São Félix I		5 de janeiro de 269	30 de dezembro de 274	Romano
+(da capital Roma)
+
+2 185 dias	Felix	Canonizado.
+27	Santo Eutiquiano		4 de janeiro de 275	7 de dezembro de 283	Romano
+(Italiano)
+
+3 259 dias	Eutychianus	Canonizado.
+28	São Caio		17 de dezembro de 283	22 de abril de 296	Romano
+(Croata)
+
+4 510 dias	Caius	Canonizado.
+29	São Marcelino		30 de junho de 296	1 de abril de 304	Romano
+(da capital Roma)
+
+2 831 dias	Marcellinus	Canonizado.
+30	São Marcelo I		27 de maio de 308	309	Romano
+(da capital Roma)
+
+234 dias	Marcellus	Canonizado.
+31	Santo Eusébio		18 de abril de 309 (ou 310)	17 de agosto de 309 (ou 310)	Romano
+(Sardo)
+
+121 dias	Eusebius	Canonizado[nota 2].
+32	São Melquíades		2 de julho de 311	10 de janeiro de 314	Romano
+(Africano)
+
+923 dias	Miltiades	Canonizado.
+33	São Silvestre I		31 de janeiro de 314	31 de dezembro de 335	Romano
+(Italiano)
+
+8 004 dias	Silvester	Canonizado.
+34	São Marcos		18 de janeiro de 336	7 de outubro de 336	Romano
+(da capital Roma)
+
+263 dias	Marcus	Canonizado.
+35	São Júlio I		6 de fevereiro de 337	12 de abril de 352	Romano
+(da capital Roma)
+
+5 544 dias	Iulius	Canonizado.
+36	Libério		17 de maio de 352	24 de setembro de 366	Romano	5 243 dias	Liberius	
+37	São Dâmaso I		1 de outubro de 366	11 de dezembro de 384	Romano
+(Lusitano)
+
+6 646 dias	Damasus	Canonizado.
+38	São Sirício		11 de dezembro de 384	26 de novembro de 399	Romano
+(da capital Roma)
+
+5 463 dias	Siricius	Canonizado.
+39	Santo Anastácio I		26 de novembro de 399	19 de dezembro de 401	Romano
+(da capital Roma)
+
+754 dias	Anastasius	Canonizado.
+40	Santo Inocêncio I		22 de dezembro de 401	12 de março de 417	Romano
+(Italiano)
+
+5 559 dias	Innocentius	Canonizado.
+41	São Zósimo		18 de março de 417	26 de dezembro de 418	Romano
+(Italiano)
+
+648 dias	Zosimus	Canonizado.
+42	São Bonifácio I		29 de dezembro de 418	4 de setembro de 422	Romano
+(da capital Roma)
+
+1 345 dias	Bonifacius	Canonizado.
+43	São Celestino I		10 de setembro de 422	27 de julho de 432	Romano
+(Italiano)
+
+3 608 dias	Coelestinus	Canonizado.
+44	São Sisto III		31 de julho de 432	agosto de 440	Romano
+(da capital Roma)
+
+2 951 dias (c)	Xystus Tertius	Canonizado.
+45	São Leão I		29 de setembro de 440	10 de novembro de 461	Romano Ocidental
+(Italiano)
+
+7 712 dias	O Grande / Leo Magnus	Canonizado.
+46	Santo Hilário		19 de novembro de 461	29 de fevereiro de 468	Romano Ocidental
+(Sardo)
+
+2 293 dias	Hilarius	Canonizado.
+47	São Simplício		3 de março de 468	10 de março de 483	Romano Ocidental
+(Italiano)
+
+5 485 dias	Simplicius	Canonizado.
+48	São Félix III (II)		13 de março de 483	1 de março de 492	Romano Ocidental
+(da capital Roma)
+
+3 276 dias	Felix Tertius (Secundus)	Canonizado.
+49	São Gelásio I		1 de março de 492	21 de novembro de 496	Romano Ocidental
+(Argelino)
+
+1 726 dias	Gelasius	Canonizado.
+50	Anastácio II		24 de novembro de 496	19 de novembro de 498	Romano Ocidental
+(da capital Roma)
+
+725 dias	Anastasius Secundus	
+51	São Símaco		22 de novembro de 498	19 de julho de 514	Vândalo
+(Sardo)
+
+5 717 dias	Symmachus	Canonizado.
+52	Santo Hormisda		20 de julho de 514	19 de julho de 523	Romano Ocidental
+(Italiano)
+
+3 286 dias	Hormisdus	Canonizado.
+53	São João I		13 de agosto de 523	18 de maio de 526	Romano Ocidental
+(Italiano)
+
+1 009 dias	Ioannes	Canonizado.
+54	São Félix IV (III)		13 de julho de 526	22 de setembro de 530	Ostrogótico
+(Grego)
+
+1 532 dias	Felix Quartus (Tertius)	Canonizado.
+55	Bonifácio II		22 de setembro de 530	17 de outubro de 532	Ostrogótico
+(Romano)
+
+756 dias	Bonifacius Secundus	
+56	João II		2 de janeiro de 533	8 de maio de 535	Romano Ocidental (nasceu 6 anos antes do fim do Império)
+(da capital Roma)
+
+856 dias	Ioannes Secundus	
+57	Santo Agapito I		13 de maio de 535	22 de abril de 536	Ostrogótico
+(Romano)
+
+345 dias	Agapetus	Canonizado.
+58	São Silvério		1 de junho de 536	março de 537	Ostrogótico
+(Italiano)
+
+301 dias (c)	Silverius	Canonizado.
+59	Vigílio		29 de março de 537	7 de junho de 555	Ostrogótico
+(Romano)
+
+6 644 dias	Vigilius	
+60	Pelágio I		16 de abril de 556	4 de março de 561	Ostrogotico
+(Romano)
+
+1 783 dias	Pelagius	
+61	João III		17 de julho de 561	13 de julho de 574	Ostrogotico
+(Romano)
+
+4 879 dias	Ioannes Tertius	
+62	Bento I		2 de junho de 575	30 de julho de 579	Ostrogotico
+(Romano)
+
+1 519 dias	Benedictus	
+63	Pelágio II		26 de novembro de 579	7 de fevereiro de 590	Ostrogotico
+(Romano)
+
+3 726 dias	Pelagius Secundus	
+64	São Gregório I, O.S.B.		3 de setembro de 590	12 de março de 604	Bizantino
+(Italiano)
+
+4 938 dias	O Grande / Gregorius Magnus	Canonizado.
+65	Sabiniano		13 de setembro de 604	22 de fevereiro de 606	Bizantino
+(Italiano)
+
+527 dias	Sabinianus	
+66	Bonifácio III		19 de fevereiro de 607	12 de novembro de 607	Bizantino
+(Italiano)
+
+266 dias	Bonifacius Tertius	
+67	São Bonifácio IV, O.S.B.		25 de agosto de 608	8 de maio de 615	Bizantino
+(Italiano)
+
+2 447 dias	Bonifacius Quartus	Canonizado.
+68	Santo Adeodato I		19 de outubro de 615	8 de novembro de 618	Bizantino
+(Italiano)
+
+1 116 dias	Adeodatus	Canonizado.
+69	Bonifácio V		23 de novembro de 619	25 de outubro de 625	Bizantino
+(Italiano)
+
+2 163 dias	Bonifacius Quintus	
+70	Honório I		27 de outubro de 625	12 de outubro de 638	Bizantino
+(Italiano)
+
+4 733 dias	Honorius	
+71	Severino		28 de maio de 640	2 de agosto de 640	Bizantino
+(Italiano)
+
+137 dias	Severinus	
+72	João IV		24 de dezembro de 640	12 de outubro de 642	Bizantino
+(Croata)
+
+657 dias	Ioannes Quartus	
+73	Teodoro I		24 de novembro de 642	14 de maio de 649	Bizantino
+(Palestino)
+
+2 363 dias	Theodorus	
+74	São Martinho I		21 de julho de 649	16 de setembro de 655	Bizantino
+(Italiano)
+
+2 248 dias	Martinus	Canonizado.
+75	Santo Eugénio I		10 de agosto de 654	2 de junho de 657	Bizantino
+(Italiano)
+
+1 027 dias	Eugenius	Canonizado [nota 3]
+76	São Vitaliano		30 de julho de 657	27 de janeiro de 672	Bizantino
+(Italiano)
+
+5 294 dias	Vitalianus	Canonizado.
+77	Adeodato II, O.S.B.		11 de abril de 672	17 de junho de 676	Bizantino
+(Italiano)
+
+1 528 dias	Adeodatus Secundus	
+78	Dono		2 de novembro de 676	11 de abril de 678	Bizantino
+(Italiano)
+
+525 dias	Donus	
+79	Santo Agatão		27 de junho de 678	10 de janeiro de 681	Bizantino
+(Siciliano)
+
+928 dias	Agatho	Canonizado.
+80	São Leão II		17 de agosto de 682	28 de junho de 683	Bizantino
+(Siciliano)
+
+315 dias	Leo Secundus	Canonizado.
+81	São Bento II		26 de junho de 684	8 de maio de 685	Bizantino
+(Italiano)
+
+316 dias	Benedictus Secundus	Canonizado.
+82	João V		23 de julho de 685	2 de agosto de 686	Bizantino
+(Sírio)
+
+375 dias	Ioannes Quintus	
+83	Cónon		21 de outubro de 686	21 de setembro de 687	Bizantino
+(Siciliano)
+
+335 dias	Conon	
+84	São Sérgio I		15 de dezembro de 687	8 de setembro de 701	Bizantino
+(Siciliano)
+
+5 015 dias	Sergius	Canonizado.
+85	João VI		30 de outubro de 701	11 de janeiro de 705	Bizantino
+(Grego)
+
+1 169 dias	Ioannes Sextus	
+86	João VII		1 de março de 705	18 de outubro de 707	Bizantino
+(Italiano)
+
+961 dias	Ioannes Septimus	
+87	Sisínio		15 de janeiro de 708	4 de fevereiro de 708	Nasceu no Califado Ortodoxo
+(Sírio)
+
+20 dias	Sisinnius	
+88	Constantino		25 de março de 708	9 de abril de 715	Omíada
+(Sírio)
+
+2 571 dias	Constantinus	
+89	São Gregório II		19 de maio de 715	11 de fevereiro de 731	Bizantino
+(Italiano)
+
+5 747 dias	Gregorius Secundus	Canonizado.
+90	Gregório III		18 de março de 731	novembro ou dezembro de 741	Omíada
+(Sírio)
+
+3 920 dias (c)	Gregorius Tertius	
+91	São Zacarias		3 de dezembro de 741	22 de março de 752	Bizantino
+(Italiano)
+
+3 762 dias	Zacharias	Canonizado.
+-	Papa eleito Estêvão (II)		23 de março de 752	26 de março de 752	Bizantino
+(Italiano)
+
+3 dias	Papa Electus Stephanus	[nota 4]
+92	Estêvão II (III)		26 de março de 752	26 de abril de 757	Bizantino
+(Italiano)
+
+1 857 dias	Stephanus Secundus (Tertius)	
+93	São Paulo I		29 de maio de 757	28 de junho de 767	Bizantino
+(Italiano)
+
+3 682 dias	Paulus	Canonizado.
+94	Estêvão III (IV)		7 de agosto de 767	24 de janeiro de 772	Bizantino
+(Siciliano)
+
+1 631 dias	Stephanus Tertius (Quartus)	
+95	Adriano I		1 de fevereiro de 772	26 de dezembro de 795	Bizantino
+(Italiano)
+
+8 729 dias	Hadrianus	
+96	São Leão III		26 de dezembro de 795	12 de junho de 816	Pontifício	7 474 dias	Leo Tertius	[nota 5]
+97	Estêvão IV (V)		12 de junho de 816	24 de janeiro de 817	Pontifício	226 dias	Stephanus Quartus (Quintus)	
+98	São Pascoal I		25 de janeiro de 817	11 de fevereiro de 824	Pontifício	2 573 dias	Paschalis	Canonizado.
+99	Eugénio II		8 de maio de 824	agosto de 827	Pontifício	1 210 dias	Eugenius Secundus	
+100	Valentino		agosto de 827	setembro de 827	Pontifício	31 dias	Valentinus	
+101	Gregório IV		827	janeiro de 844	Pontifício	5 966 dias	Gregorius Quartus	
+102	Sérgio II		janeiro de 844	7 de janeiro de 847	Pontifício	1 102 dias	Sergius Secundus	
+103	São Leão IV, O.S.B.		janeiro de 847	17 de julho de 855	Pontifício	3 119 dias	Leo Quartus	Canonizado.
+104	Bento III		29 de setembro de 855	17 de abril de 858	Pontifício	931 dias	Benedictus Tertius	
+105	São Nicolau I		24 de abril de 858	13 de novembro de 867	Pontifício	3 490 dias	O Grande / Nicolaus Magnus	Canonizado.
+106	Adriano II		14 de dezembro de 867	14 de dezembro de 872	Pontifício	1 827 dias	Hadrianus Secundus	
+107	João VIII		14 de dezembro de 872	16 de dezembro de 882	Pontifício	3 654 dias	Ioannes Octavus	
+108	Marinho I		16 de dezembro de 882	15 de maio de 884	Pontifício	516 dias	Marinus	[nota 6]
+109	Santo Adriano III		17 de maio de 884	setembro de 885	Pontifício	472 dias	Hadrianus Tertius	[nota 7]
+110	Estêvão V (VI)		885	14 de setembro de 891	Pontifício	2 447 dias	Stephanus Quintus (Sextus)	
+111	Formoso		19 de setembro de 891	4 de abril de 896	Pontifício	1 659 dias	Formosus	
+112	Bonifácio VI		4 de abril de 896	19 de abril de 896	Pontifício	15 dias	Bonifacius Sextus	
+113	Estêvão VI (VII)		22 de abril de 896	agosto de 897	Pontifício	466 dias	Stephanus Sextus (Septimus)	
+114	Romano		agosto de 897	novembro de 897	Pontifício	92 dias	Romanus	
+115	Teodoro II		dezembro de 897	dezembro de 897	Pontifício	30 dias	Theodorus Secundus	
+116	João IX, O.S.B.		janeiro de 898	janeiro de 900	Pontificio	730 dias	Ioannes Nonus	
+117	Bento IV		900	903	Pontificio	1 095 dias	Benedictus Quartus	
+118	Leão V		julho de 903	setembro de 903	Pontificio	62 dias	Leo Quintus	
+119	Sérgio III		29 de janeiro de 904	14 de abril de 911	Pontificio	2 632 dias	Sergius Tertius	
+120	Anastácio III		abril de 911	junho de 913	Pontificio	792 dias	Anastasius Tertius	
+121	Lando		agosto de 913	março de 914	Pontifício	212 dias	Lando	
+122	João X		março de 914	Maio de 928	Pontifício	5 175 dias	Ioannes Decimus	
+123	Leão VI		Maio de 928	dezembro de 928	Pontificio	214 dias	Leo Sextus	
+124	Estêvão VII (VIII)		dezembro de 928	fevereiro de 931	Pontifício	792 dias	Stephanus Septimus (Octavus)	
+125	João XI		março de 931	dezembro de 935	Pontifício	1 736 dias	Ioannes Undecimus	
+126	Leão VII, O.S.B.		3 de janeiro de 936	13 de julho de 939	Pontifício	1 287 dias	Leo Septimus	
+127	Estêvão VIII (IX)		13 de julho de 939	outubro de 942	Pontifício	1 176 dias	Stephanus Octavus (Nonus)	
+128	Marinho II		30 de outubro de 942	Maio de 946	Poncifitio	1 279 dias	Marinus Secundus	[nota 8]
+129	Agapito II		10 de maio de 946	dezembro de 955	Pontifício	3 492 dias	Agapetus Secundus	
+130	João XII		16 de dezembro de 955	14 de maio de 964	Pontifício	3 072 dias	Ioannes Duodecimus	
+131	Bento V		22 de maio de 964	23 de junho de 964	Pontificio	32 dias	Benedictus Quintus	
+132	Leão VIII		julho de 964	1 de março de 965	Pontificio	243 dias	Leo Octavus	
+133	João XIII		1 de outubro de 965	6 de setembro de 972	Pontificio	2 532 dias	Ioannes Tertius Decimus	
+134	Bento VI		19 de janeiro de 973	junho de 974	Pontificio	498 dias	Benedictus Sextus	
+135	Bento VII		outubro de 974	10 de julho de 983	Pontificio	3 204 dias	Benedictus Septimus	
+136	João XIV		dezembro de 983	20 de agosto de 984	Pontificio	385 dias	Ioannes Quartus Decimus	
+137	João XV		agosto de 985	março de 996	Pontificio	3 865 dias	Ioannes Quintus Decimus	
+138	Gregório V		3 de maio de 996	18 de fevereiro de 999	Romano Germânico
+(Alemão)
+
+1 021 dias	Gregorius Quintus	
+139	Silvestre II, O.S.B.		2 de abril de 999	12 de maio de 1003	Francês	1 500 dias	Silvester Secundus	
+140	João XVII		16 de maio de 1003	6 de novembro de 1003	Romano Germânico
+(Italiano)
+
+174 dias	Ioannes Septimus Decimus	
+141	João XVIII		25 de dezembro de 1003	31 de julho de 1009	Romano Germânico
+(Italiano)
+
+2 045 dias	Ioannes Duodevicesimus	
+142	Sérgio IV, O.S.B.		31 de julho de 1009	12 de maio de 1012	Romano Germânico
+(Italiano)
+
+1 016 dias	Sergius Quartus	
+143	Bento VIII		18 de maio de 1012	9 de abril de 1024	Romano Germânico
+(Italiano)
+
+4 344 dias	Bendedictus Octavus	
+144	João XIX		9 de abril de 1024	20 de outubro de 1032	Romano Germânico
+(Italiano)
+
+3 116 dias	Ioannes Undevicesimus	
+145	Bento IX		1 de agosto de 1032	16 de janeiro de 1045	Romano Germânico
+(Italiano)
+
+4 551 dias	Benedictus Nonus	[nota 9]
+146	Silvestre III		20 de janeiro de 1045	10 de abril de 1045	Romano Germânico
+(Italiano)
+
+80 dias	Silvester Tertius	
+147	Bento IX		10 de abril de 1045	1 de maio de 1045	Romano Germânico
+(Italiano)
+
+21 dias	Benedictus Nonus	[nota 10]
+148	Gregório VI		1 de maio de 1045	20 de dezembro de 1046	Romano Germânico
+(Italiano)
+
+598 dias	Gregorius Sextus	
+149	Clemente II		20 de dezembro de 1046	9 de outubro de 1047	Romano Germânico
+(Alemão)
+
+293 dias	Clemens Secundus	
+150	Bento IX		9 de outubro de 1047	17 de julho de 1048	Romano Germânico
+(Italiano)
+
+282 dias	Benedictus Nonus	[nota 11]
+151	Dâmaso II		17 de julho de 1048	9 de agosto de 1048	Romano Germânico
+(Alemão)
+
+23 dias	Damasus Secundus	
+152	São Leão IX		12 de fevereiro de 1049	19 de abril de 1054	Romano Germânico
+(Alemão)
+
+1 892 dias	Leo Nonus	[nota 12]
+153	Vítor II		13 de abril de 1055	28 de julho de 1057	Romano Germânico
+(Alemão)
+
+837 dias	Victor Secundus	
+154	Estêvão IX (X), O.S.B.		2 de agosto de 1057	29 de março de 1058	Romano Germânico
+(Francês)
+
+239 dias	Stephanus Nonus (Decimus)	
+155	Nicolau II		6 de dezembro de 1058	27 de julho de 1061	Romano Germânico
+(Francês)
+
+964 dias	Nicolaus Secundus	
+156	Alexandre II		30 de setembro de 1061	21 de abril de 1073	Romano Germânico
+(Italiano)
+
+4 221 dias	Alexander Secundus	
+157	São Gregório VII, O.S.B.		22 de abril de 1073	25 de maio de 1085	Romano Germânico
+(Italiano)
+
+4 416 dias	Gregorius Septimus	[nota 13]
+158	Beato Vítor III, O.S.B.		24 de maio de 1086	16 de setembro de 1087	Beneventiano	480 dias	Victor Tertius	[nota 14]
+159	Beato Urbano II, O.Cart.		12 de março de 1088	29 de julho de 1099	Francês	4 156 dias	Urbanus Secundus	[nota 15]
+160	Pascoal II, O.S.B. Cam.		13 de agosto de 1099	21 de janeiro de 1118	Romano Germânico
+(Italiano)
+
+6 735 dias	Paschalis Secundus	
+161	Gelásio II, O.S.B.		24 de janeiro de 1118	28 de janeiro de 1119	Capuano	369 dias	Gelasius Secundus	
+162	Calisto II		2 de fevereiro de 1119	13 de dezembro de 1124	Romano Germânico
+(Francês)
+
+2 141 dias	Callistus Secundus	
+163	Honório II, O.S.A.		15 de dezembro de 1124	13 de fevereiro de 1130	Romano Germânico
+(Italiano)
+
+1 886 dias	Honorius Secundus	
+164	Inocêncio II,		14 de fevereiro de 1130	24 de setembro de 1143	Romano Germânico
+(Italiano)
+
+4 980 dias	Innocentius Secundus	
+165	Celestino II		26 de setembro de 1143	8 de março de 1144	Romano Germânico
+(Italiano)
+
+164 dias	Coelestinus Secundus	
+166	Lúcio II , O.S.A.		12 de março de 1144	15 de fevereiro de 1145	Romano Germânico
+(Italiano)
+
+340 dias	Lucius Secundus	
+167	Beato Eugénio III, O.Cist		15 de fevereiro de 1145	8 de julho de 1153	Romano Germânico
+(Italiano)
+
+3 065 dias	Eugenius Tertius	[nota 16]
+168	Anastácio IV		8 de julho de 1153	3 de dezembro de 1154	Romano Germânico
+(Italiano)
+
+513 dias	Anastacius Quartus	
+169	Adriano IV, O.S.A.		4 de dezembro de 1154	1 de setembro de 1159	Inglês	1 732 dias	Hadrianus Quartus	
+170	Alexandre III		7 de setembro de 1159	30 de agosto de 1181	Romano Germânico
+(Italiano)
+
+8 028 dias	Alexander Tertius	
+171	Lúcio III, O.S.A.		1 de setembro de 1181	25 de novembro de 1185	Romano Germânico
+(Italiano)
+
+1 546 dias	Lucius Tertius	
+172	Urbano III		25 de novembro de 1185	19 de outubro de 1187	Romano Germânico
+(Italiano)
+
+693 dias	Urbanus Tertius	
+173	Gregório VIII, O. Præm		21 de outubro de 1187	17 de dezembro de 1187	Romano Germânico
+(Italiano)
+
+57 dias	Gregorius Octavus	
+174	Clemente III		17 de dezembro de 1187	20 de março de 1191	Romano Germânico
+(Italiano)
+
+1 189 dias	Clemens Tertius	
+175	Celestino III		21 de março de 1191	8 de janeiro de 1198	Romano Germânico
+(Italiano)
+
+2 485 dias	Coelestinus Tertius	
+176	Inocêncio III		8 de janeiro de 1198	16 de julho de 1216	Romano Germânico
+(Italiano)
+
+6 764 dias	Innocentius Tertius	
+177	Honório III		18 de julho de 1216	18 de março de 1227	Romano Germânico
+(Italiano)
+
+3 895 dias	Honorius Tertius	
+178	Gregório IX		19 de março de 1227	22 de agosto de 1241	Romano Germânico
+(Italiano)
+
+5 270 dias	Gregorius Nonus	[nota 17]
+179	Celestino IV, O.Cist.		25 de outubro de 1241	10 de novembro de 1241	Romano Gremânico	16 dias	Coelestinus Quartus	
+180	Inocêncio IV		25 de junho de 1243	7 de dezembro de 1254	Romano Germânico
+(Italiano)
+
+4 183 dias	Innocentius Quartus	
+181	Alexandre IV		12 de dezembro de 1254	25 de maio de 1261	Pontifício	2 356 dias	Alexander Quartus	
+182	Urbano IV		29 de agosto de 1261	2 de outubro de 1264	Francês	1 130 dias	Urbanus Quartus	
+183	Clemente IV		5 de fevereiro de 1265	29 de dezembro de 1268	Francês	1 423 dias	Clemens Quartus	
+Sede vacante		29 de dezembro de 1268	1 de setembro de 1271		976 dias		[nota 18]
+184	Beato Gregório X, O.Cist.		1 de setembro de 1271	10 de janeiro de 1276	Romano Germânico
+(Italiano)
+
+1 592 dias	Gregorius Decimus	[nota 19]
+185	Beato Inocêncio V, O.P.		21 de janeiro de 1276	22 de junho de 1276	Romano Germânico
+(Italiano)
+
+153 dias	Innocentius Quintus	[nota 20]
+186	Adriano V		11 de julho de 1276	18 de agosto de 1276	Romano Germânico
+(Italiano)
+
+38 dias	Hadrianus Quintus	
+187	João XXI		20 de setembro de 1276	20 de maio de 1277	Português	406 dias	Ioannes Vicesimus Primus	
+188	Nicolau III, O.S.B.		25 de novembro de 1277	22 de agosto de 1280	Pontifício	1 001 dias	Nicolaus Tertius	
+189	Martinho IV		22 de fevereiro de 1281	28 de março de 1285	Francês	1 495 dias	Martinus Quartus	
+190	Honório IV		2 de abril de 1285	3 de abril de 1287	Pontifício	731 dias	Honorius Quartus	
+191	Nicolau IV, O.F.M.		22 de fevereiro de 1288	4 de abril de 1292	Pontifício	1 503 dias	Nicolaus Quartus	
+Sede vacante		4 de abril de 1292	5 de julho de 1294		822 dias		[nota 21]
+192	São Celestino V, O.S.B. Cel.		5 de julho de 1294	13 de dezembro de 1294	Siciliano	161 dias	Coelestinus Quintus	[nota 22]
+193	Bonifácio VIII		24 de dezembro de 1294	11 de outubro de 1303	Pontifício	3 182 dias	Bonifacius Octavus	
+194	Beato Bento XI, O.P.		22 de outubro de 1303	7 de julho de 1304	Romano Germânico
+(Italiano)
+
+259 dias	Benedictus Undecimus	[nota 23]
+195	Clemente V		5 de junho de 1305	20 de abril de 1314	Francês	3 241 dias	Clemens Quintus	
+Sede vacante		20 de abril de 1314	7 de agosto de 1316		840 dias		[nota 24]
+196	João XXII		7 de agosto de 1316	4 de dezembro de 1334	Francês	6 693 dias	Ioannes Vicesimus Secundus	
+197	Bento XII, O.Cist.		20 de dezembro de 1334	25 de abril de 1342	Francês	2 683 dias	Benedictus Duodecimus	
+198	Clemente VI, O.S.B.		7 de maio de 1342	6 de dezembro de 1352	Francês	3 866 dias	Clemens Sextus	
+199	Inocêncio VI		18 de dezembro de 1352	12 de setembro de 1362	Francês	3 555 dias	Innocentius Sextus	
+200	Beato Urbano V, O.S.B.		28 de setembro de 1362	19 de dezembro de 1370	Francês	3 004 dias	Urbanus Quintus	[nota 25]
+201	Gregório XI		30 de dezembro de 1370	26 de março de 1378	Francês	2 643 dias	Gregorius Undecimus	
+202	Urbano VI		8 de abril de 1378	15 de outubro de 1389	Napolitano	4 208 dias	Urbanus Sextus	
+203	Bonifácio IX		2 de novembro de 1389	1 de outubro de 1404	Napolitano	5 446 dias	Bonifacius Nonus	
+204	Inocêncio VII		17 de outubro de 1404	6 de novembro de 1406	Napolitano	750 dias	Innocentius Septimus	
+205	Gregório XII		30 de novembro de 1406	4 de julho de 1415	Veneto	3 138 dias	Gregorius Duodecimus	
+Sede vacante		4 de julho de 1415	11 de novembro de 1417		861 dias		[nota 26]
+206	Martinho V		11 de novembro de 1417	20 de fevereiro de 1431	Pontificio	4 849 dias	Martinus Quintus	
+207	Eugénio IV, O.S.B. Cel.		3 de março de 1431	23 de fevereiro de 1447	Veneto	5 836 dias	Eugenius Quartus	
+208	Nicolau V, O.P.		6 de março de 1447	24 de março de 1455	Romano Germânico
+(Italiano)
+
+2 940 dias	Nicolaus Quintus	
+209	Calisto III		8 de abril de 1455	6 de agosto de 1458	Aragoano	1 216 dias	Callistus Tertius	
+210	Pio II		19 de agosto de 1458	15 de agosto de 1464	Romano Germânico
+(Italiano)
+
+2 188 dias	Pius Secundus	
+211	Paulo II		30 de agosto de 1464	26 de julho de 1471	Veneto	2 521 dias	Paulus Secundus	
+212	Sisto IV,O.F.M.		9 de agosto de 1471	12 de agosto de 1484	Romano Germânico
+(Italiano)
+
+4 752 dias	Xystus Quartus	
+213	Inocêncio VIII		29 de agosto de 1484	25 de julho de 1492	Romano Germânico
+(Italiano)
+
+2 887 dias	Innocentius Octavus	
+214	Alexandre VI		11 de agosto de 1492	18 de agosto de 1503	Aragonês	4 023 dias	Alexander Sextus	
+215	Pio III		22 de setembro de 1503	18 de outubro de 1503	Romano Germânico
+(Italiano)
+
+26 dias	Pius Tertius	
+216	Júlio II, O.F.M.		31 de outubro de 1503	21 de fevereiro de 1513	Romano Germânico
+(Italiano)
+
+3 401 dias	Iulius Secundus	
+217	Leão X		9 de março de 1513	1 de dezembro de 1521	Romano Germânico
+(Italiano)
+
+3 189 dias	Leo Decimus	
+218	Adriano VI		9 de janeiro de 1522	14 de setembro de 1523	Romano Germânico
+(Holandês)
+
+613 dias	Hadrianus Sextus	
+219	Clemente VII		26 de novembro de 1523	25 de setembro de 1534	Romano Germânico
+(Italiano)
+
+3 956 dias	Clemens Septimus	
+220	Paulo III		12 de outubro de 1534	10 de novembro de 1549	Pontifício	5 507 dias	Paulus Tertius	
+221	Júlio III		29 de novembro de 1549	29 de março de 1555	Pontifício	1 946 dias	Iulius Tertius	
+222	Marcelo II		9 de abril de 1555	1 de maio de 1555	Pontifício	22 dias	Marcellus Secundus	
+223	Paulo IV, C.R.'		23 de maio de 1555	18 de agosto de 1559	Napolitano	1 548 dias	Paulus Quartus	
+224	Pio IV		26 de dezembro de 1559	9 de dezembro de 1565	Romano Germânico
+(Italiano)
+
+2 175 dias	Pius Quartus	
+225	São Pio V, O.P.		7 de janeiro de 1566	1 de maio de 1572	Romano Germânico
+(Italiano)
+
+2 306 dias	Pius Quintus	[nota 27]
+226	Gregório XIII		13 de maio de 1572	10 de abril de 1585	Pontifício	4 715 dias	Gregorius Tertius Decimus	
+227	Sisto V, O.F.M. Conv.		24 de abril de 1585	27 de agosto de 1590	Pontifício	1 951 dias	Xystus Quintus	
+228	Urbano VII		15 de setembro de 1590	27 de setembro de 1590	Pontifício	12 dias	Urbanus Septimus	
+229	Gregório XIV		5 de dezembro de 1590	16 de outubro de 1591	Romano Germânico
+(Italiano)
+
+315 dias	Gregorius Quartus Decimus	
+230	Inocêncio IX		29 de outubro de 1591	30 de dezembro de 1591	Pontifício	62 dias	Innocentius Nonus	
+231	Clemente VIII		30 de janeiro de 1592	3 de março de 1605	Pontifício	4 781 dias	Clemens Octavus	
+232	Leão XI		1 de abril de 1605	27 de abril de 1605	Romano Germânico
+(Italiano)
+
+26 dias	Leo Undecimus	
+233	Paulo V		16 de maio de 1605	28 de janeiro de 1621	Pontifício	5 736 dias	Paulus Quintus	
+234	Gregório XV		9 de fevereiro de 1621	8 de julho de 1623	Pontifício	879 dias	Gregorius Quintus Decimus	
+235	Urbano VIII		6 de agosto de 1623	29 de julho de 1644	Romano Germânico
+(Italiano)
+
+7 663 dias	Urbanus Octavus	
+236	Inocêncio X		15 de setembro de 1644	7 de janeiro de 1655	Pontifício	3 766 dias	Innocentius Decimus	
+237	Alexandre VII		7 de abril de 1655	22 de maio de 1667	Romano Germânico
+(Italiano)
+
+4 428 dias	Alexander Septimus	
+238	Clemente IX		20 de junho de 1667	9 de dezembro de 1669	Romano Germânico
+(Italiano)
+
+903 dias	Clemens Nonus	
+239	Clemente X		29 de abril de 1670	22 de julho de 1676	Pontifício	2 276 dias	Clemens Decimus	
+240	Beato Inocêncio XI		21 de setembro de 1676	12 de agosto de 1689	Romano Germânico
+(Italiano)
+
+4 708 dias	Innocentius Undecimus	[nota 28]
+241	Alexandre VIII		6 de outubro de 1689	1 de fevereiro de 1691	Veneto	483 dias	Alexander Octavus	
+242	Inocêncio XII		12 de julho de 1691	27 de setembro de 1700	Napolitano	3 364 dias	Innocentius Duodecimus	
+243	Clemente XI		23 de novembro de 1700	19 de março de 1721	Pontifício	7 421 dias	Clemens Undecimus	
+244	Inocêncio XIII		8 de maio de 1721	7 de março de 1724	Pontifício	1 034 dias	Innocentius Tertius Decimus	
+245	Bento XIII, O.P.		29 de maio de 1724	21 de fevereiro de 1730	Napolitano	2 094 dias	Benedictus Tertius Decimus	
+246	Clemente XII		12 de julho de 1730	6 de fevereiro de 1740	Toscano	3 496 dias	Clemens Duodecimus	
+247	Bento XIV		17 de agosto de 1740	3 de maio de 1758	Pontifício	6 468 dias	Benedictus Decimus Quartus	
+248	Clemente XIII		6 de julho de 1758	2 de fevereiro de 1769	Veneto	3 864 dias	Clemens Decimus Tertius	
+249	Clemente XIV, O.F.M. Conv.		19 de maio de 1769	22 de setembro de 1774	Pontifício	1 952 dias	Clemens Decimus Quartus	
+250	Pio VI		15 de fevereiro de 1775	29 de agosto de 1799	Pontifício	8 961 dias	Pius Sextus	
+251	Pio VII, O.S.B.		14 de março de 1800	20 de agosto de 1823	Pontifício	8 559 dias	Pius Septimus	
+252	Leão XII		28 de setembro de 1823	10 de fevereiro de 1829	Pontificio	1 962 dias	Leo Duodecimus	
+253	Pio VIII		31 de março de 1829	1 de dezembro de 1830	Pontifício	610 dias	Pius Octavus	
+254	Gregório XVI, O.S.B. Cam.		2 de fevereiro de 1831	1 de junho de 1846	Veneto	5 598 dias	Gregorius Decimus Sextus	
+255	Beato Pio IX, O.F.S.		16 de junho de 1846	7 de fevereiro de 1878	Pontifício	11 559 dias	Pius Nonus	[nota 29]
+256	Venerável Leão XIII, O.F.S.		20 de fevereiro de 1878	20 de julho de 1903	Pontifício	9 280 dias	Leo Decimus Tertius	
+257	São Pio X, O.F.S.		4 de agosto de 1903	20 de agosto de 1914	Austro - Hungaro
+(Italiano)
+
+4 034 dias	Pius Decimus	[nota 30]
+258	Bento XV, O.F.S.		3 de setembro de 1914	22 de janeiro de 1922	Sardo	2 698 dias	Beneditus Decimus Quintus	[nota 31]
+259	Pio XI, O.F.S.		6 de fevereiro de 1922	10 de fevereiro de 1939	Austro - Hungaro
+(Italiano)
+
+6 213 dias	Pius Undecimus	[nota 32]
+260	Venerável Pio XII, O.P.		2 de março de 1939	9 de outubro de 1958	Italiano	7 161 dias	Pius Duodecimus	[nota 33]
+261	São João XXIII, O.F.S.		28 de outubro de 1958	3 de junho de 1963	Italiano	1 679 dias	Ioannes Vicesimus Tertius	[nota 34]
+262	São Paulo VI, O.F.S.		21 de junho de 1963	6 de agosto de 1978	Italiano	5 525 dias	Paulus Sextus	[nota 35]
+263	Venerável João Paulo I		26 de agosto de 1978	28 de setembro de 1978	Italiano	33 dias	Ioannes Paulus Primus	[nota 36]
+264	São João Paulo II		16 de outubro de 1978	2 de abril de 2005	Polaco	9 665 dias	Ioannes Paulus Secundus	[nota 37] .
+265	Bento XVI		19 de abril de 2005	28 de fevereiro de 2013	Alemão	2 872 dias	Benedictus Decimus Sextus	[nota 38]
+266	Francisco, S.J.		13 de março de 2013	Atualidade	Argentino	2 148 dias	Franciscus	[nota 39]

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+	<!-- Teste -->
+	<category>
+		<pattern>Teste</pattern>
+		<template>
+			<random>
+			<li>Teste.</li>
+			<li>Teste..</li>
+			<li>Teste...</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern>NICOLAU COPÉRNICO</pattern>
+		<template>
+            Nicolau Copérnico (1473-1543) foi um astrônomo, matemático, médico e religioso polonês. Desenvolveu a 
+            teoria heliocêntrica, na qual colocava o sol no centro do Sistema Solar. Explicou como ocorrem as estações. 
+            Mostrou que não vemos as estrelas na mesma posição celeste na Itália e no Egito, e nem podemos ver, do 
+            hemisfério Norte, estrelas que vemos no Sul. Apresentou relato pormenorizado dos movimentos da Terra, da 
+            Lua e dos planetas.
+		</template>
+	</category>
+
+	<category>
+		<pattern>TEORIA HELIOCÊNTRICA</pattern>
+		<template>
+            De volta à Polônia, Nicolau Copérnico instala-se na torre do muro que cercava a Catedral, que lhe servia de 
+            observatório e, posteriormente ficou conhecida como "Torre de Copérnico", onde passa a se dedicar à elaboração 
+            se sua nova e revolucionária teoria do Universo iniciada durante os anos em que estudou na Itália.
+            O novo sistema planetário imaginado por Copérnico contradizia as ideias geocêntricas de Ptolomeu - de que a 
+            Terra era o centro do Universo e em torno dela giravam todos os corpos celestes. A ninguém ocorria duvidar 
+            dessa concepção – o geocentrismo – mesmo porque a Bíblia e a Igreja aceitavam como verdade indiscutível. 
+            A ideia de Copérnico de que o Sol, e não a Terra, era o centro do Universo, que a Terra em vez 
+            de ser estática como se pensava, que girava ao redor do Sol e esse percurso correspondia ao ano terrestre, 
+            que a Terra fazia um movimento sobre si mesma, de onde se devia buscar a explicação para a sucessão dos 
+            dias e das noites, era um sacrilégio para a época.
+
+            Em 1512, Nicolau Copérnico publica seu primeiro livro “Pequeno Comentário”. A publicação causou celeuma: 
+            alguns acolheram com desconfiança e hostilidade, para outros, Copérnico era um visionário ou um louco.
+
+            O compêndio de 6 volumes que guarda as teorias de Copérnico “Sobre as Revoluções dos Corpos Celestes”, 
+            concluída em 1530, só foi publicada em 1543, depois que 30 anos se passaram. Conta-se que o primeiro exemplar 
+            impresso do trabalho de Copérnico chegou às mãos do astrônomo no último dia de sua vida. Na capa estava escrito 
+            “De Revolutionibus Orbium celesti” (Os Movimentos dos Corpos Celestes).
+
+            Embora a Teoria Heliocêntrica de Copérnico tenha encontrado alguns adeptos entre os seus contemporâneos, o 
+            sistema só foi realmente consagrado depois dos trabalhos de Kepler e de Galileu Galilei.
+		</template>
+	</category>
+
+	<category>
+		<pattern>CIENTISTAS JESUITAS SÉCULO XVII</pattern>
+		<template>
+            José de Acosta (1540–1600), um dos primeiros naturalistas e antropólogos da América.
+            Matteo Ricci (1552–1610),
+            Cristóvão Clávio (1538–1612),
+            François d'Aguilon (1567-1617),
+            Giuseppe Biancani (1566-1624),
+            Wenceslas Pantaleon Kirwitzer (1588-1626),
+            Charles Malapert (1581-1630),
+            Christoph Grienberger (1561-1636),
+            Christoph Scheiner (c.1573-1650),
+            Giovanni Battista Zupi (c.1590-1650),
+            Jean-Charles de la Faille (1597-1652),
+            Alexius Sylvius Polonus (1593-c.1653),
+            Gerolamo Sersale (1584-1654),
+            Johann Baptist Cysat (1587-1657),
+            Mario Bettinus (1582-1657),
+            Michał Boym (c. 1602-1659),
+            André Tacquet (1612-1660),
+            Francesco Maria Grimaldi 1618-1663),
+            Antoine de Laloubère (1600-1664),
+            Gaspar Schott (1608-1666),
+            Niccolo Zucchi (1586-1670) - astrônomo italiano conhecido por seu estudo sobre Júpiter e seu trabalho sobre o projeto do telescópio,
+            Giovanni Battista Riccioli (1598-1671),
+            Albert Curtz (1600-1671),
+            Jacques de Billy (1602-1679),
+            Athanasius Kircher (1601-1680)
+		</template>
+	</category>
+
+	<category>
+		<pattern>CIENTISTAS JESUITAS SÉCULO XVIII</pattern>
+		<template>
+            Valentin Stansel (1621 – 1705),
+            Jiří Josef Camel (1661-1706),
+            Paolo Casati (1617-1707),
+            Franz Reinzer (1661-1708),
+            Bartolomeu de Gusmão (1685-1724),
+            Giovanni Gerolamo Saccheri (1667-1733),
+            Tommaso Ceva (1648-1737),
+            Michel Benoist (1715-1774),
+            Vincenzo Riccati (1707-1775),
+            Giuseppe Asclepi (1706-1776),
+            Christian Mayer (1719-1783),
+            Roger Joseph Boscovich (1711–1787),
+            Maximilian Hell (1720-1792),
+            Ignacije Szentmartony (1718-1793)
+		</template>
+	</category>
+
+	<category>
+		<pattern>CIENTISTAS JESUITAS SÉCULO XIX</pattern>
+		<template>
+            Franz de Paula Triesnecker (1745-1817),
+            Josef Dobrovský (1753-1829),
+            Juan Ignacio Molina (1740-1829),
+            Angelo Secchi (1818-1878),
+            Joseph Bayma (1816-1892),
+            Benito Viñes (1837-1893)
+		</template>
+	</category>
+
+	<category>
+		<pattern>CIENTISTAS JESUITAS SÉCULO XX</pattern>
+		<template>
+            Pierre Marie Heude (1836-1902),
+            Manuel Magri (1851–1907),
+            Eugene Lafont (1837-1908),
+            Gyula Fényi (1845-1927),
+            Franz Xaver Kugler (1862-1929),
+            James Cullen (1867-1933),
+            Theodor Wulf (1868-1946),
+            Emile Licent (1876–1952),
+            Pierre Teilhard de Chardin (1881–1955),
+            Paul McNally (1890-1955),
+            James Macelwane (1883-1956)
+		</template>
+	</category>
+
+	<category>
+		<pattern>CIENTISTAS JESUITAS SÉCULO XXI</pattern>
+		<template>
+            Luís Archer (1926-2011),
+            Roberto Busa (1913-2011),
+            Guy Consolmagno (1952-),
+            George V. Coyne (1933-),
+            Kevin T. FitzGerald (1955-),
+            José Gabriel Funes (1963-),
+            Frank Haig (1928-),
+            Michael C. McFarland (1948-)
+		</template>
+	</category>
+
+	<category>
+		<pattern>CÔNEGO</pattern>
+		<template>
+			Cónego ou cônego é o presbítero que vive sob uma regra que o obriga a realizar as funções litúrgicas 
+            mais solenes na igreja catedral ou colegiada. O conjunto dos cônegos forma o Cabido ou seja o colégio 
+            reunido sob uma mesma cabeça, um chefe ou superior.
+		</template>
+	</category>
+
+</aiml>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+	<category>
+		<pattern>QUANDO FOI ESCRITO O LIVRO DE ROMANOS</pattern>
+		<template>
+			Trecho da Epístola aos Romanos no Papiro 118. A Epístola aos Romanos, 
+            geralmente referida apenas como Romanos, é o sexto livro do Novo Testamento. 
+            Os estudiosos da Bíblia concordam que ela foi escrita pelo apóstolo Paulo aos 
+            romanos para explicar como a salvação é oferecida por meio do Evangelho de Jesus Cristo.
+            ...
+            A maioria dos estudiosos propoem que a carta foi escrita no final de 55, 56 ou 57.[6] 
+            Outros propoem o início de 58 ou 55, enquanto Luedemann defende uma data anterior, 
+            como 51/52 (ou 54/55 ), na sequência de Knox, que propôe 53/54.[7] O teólogo Fábbio Xavier, 
+            em seu artigo Conhecendo os Romanos de Roma, deixa claro que a carta pode ter sido redigida 
+            por volta de 55 e 56.
+		</template>
+	</category>
+
+</aiml>

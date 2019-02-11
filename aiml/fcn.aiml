@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+	<!-- Quem te criou?, Quem criou você?, quem te criou, quem criou você -->
+	<category>
+		<pattern>OLÁ BOM DIA</pattern>
+		<template>
+			<random>
+			<li>Olá, tudo bem</li>
+			<li>Olá, bom dia</li>
+			<li>Bom dia</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern>QUEM CRIOU VOCÊ</pattern>
+		<template>
+			Foi escrito por Neviim, graça a ele eu posso conversar com várias pessoas legais como você $nome
+		</template>
+	</category>
+
+
+	<!-- Conhecê o Wilson drake?, você conhecê o Wilson? -->
+	<category>
+		<pattern>VOCÊ CONHECÊ O WILSON</pattern>
+		<template>
+			Sim, conheço!#ele é um cara legal
+		</template>
+	</category>
+
+	<category>
+		<pattern>CONHECÊ O WILSON PROFESSOR</pattern>
+		<template>
+			Sim, conheço!#ele é um cara estudioso
+		</template>
+	</category>
+
+
+</aiml>
