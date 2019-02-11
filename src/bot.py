@@ -1,9 +1,12 @@
+# -*- coding: utf-8 -*-
+
 print('Iniciando o fcnIAbot...')
 
 # metodos
 from amanobot.loop import MessageLoop
 from amanobot.exception import TelegramError
 from amanobot.namedtuple import InlineKeyboardMarkup
+
 # biblioteca
 import datetime
 import amanobot
@@ -12,6 +15,7 @@ import threading
 import aiml
 import numexpr
 import wolframalpha
+
 # parametros
 import config
 import credencial
@@ -85,8 +89,8 @@ def handle(msg):
                 # cria um log do que foi pesquisado
                 # não esta legal acertar isso......
                 if len(retorno) < 1:
-                    F = open('../log/log.txt','a') 
-                    F.write(str(msg['chat']['id']) + " " + msg['text'] + "\n")
+                    F = open('../log/log_pesquisa.txt','a') 
+                    F.write(str(datetime.datetime.now()) +" "+ str(msg['chat']['id']) + " " + msg['text'] + "\n")
                     F.close()
                     # .......
 
@@ -142,6 +146,15 @@ def handle(msg):
                     time.sleep(1)
                     bot.sendMessage(msg['chat']['id'], response, reply_to_message_id=msg['message_id'], disable_web_page_preview=True)
 
+                    # cria um log do que foi pesquisado
+                    # não esta legal acertar isso......
+                    if len([x for x in credencial.GRAVALOG if x == response]) == 0:
+                        F = open('../log/log_nao_encontrado.txt','a') 
+                        F.write(str(datetime.datetime.now()) +" "+ str(msg['chat']['id']) +" "+ msg['text'] + "\n")
+                        F.close()
+                        # .......
+                    #print(len(credencial.GRAVALOG[0]))
+                    #print(len(response)) 
 
 MessageLoop(bot, handle_thread).run_as_thread()
 

@@ -521,7 +521,7 @@
 </category>
 <category>
 	<pattern>QUEM É DEUS</pattern>
-	<template><set name="he">Deus</set>é o mestre do universo.</template>
+	<template><set name="he">Deus</set> é o mestre do universo.</template>
 </category>
 <category>
 	<pattern>QUEM É DE DEUS *</pattern>
