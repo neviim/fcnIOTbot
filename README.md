@@ -12,3 +12,6 @@ Requerimentos do sistema: <code>python3</code> e <code>pip3</code>.
 - Inicie o bot com o comando: ```python3 bot.py```
 
 
+Implementar este bot...
+https://github.com/python-telegram-bot/python-telegram-bot/blob/master/examples/passportbot.py
+https://github.com/python-telegram-bot/python-telegram-bot
